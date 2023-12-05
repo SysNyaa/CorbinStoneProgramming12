@@ -1,0 +1,1259 @@
+Sorted by Games Played:
+Name: Austin Riley
+Team: ATL
+Games Played: 115
+Runs: 68
+Hits: 132
+Doubles: 34
+Triples: 2
+Home Runs: 30
+RBIs: 74
+
+Name: Pete Alonso
+Team: NYM
+Games Played: 115
+Runs: 66
+Hits: 119
+Doubles: 22
+Triples: 0
+Home Runs: 29
+RBIs: 97
+
+Name: Josh Bell
+Team: SD
+Games Played: 115
+Runs: 60
+Hits: 119
+Doubles: 25
+Triples: 3
+Home Runs: 14
+RBIs: 59
+
+Name: Freddie Freeman
+Team: LAD
+Games Played: 114
+Runs: 80
+Hits: 142
+Doubles: 38
+Triples: 2
+Home Runs: 16
+RBIs: 73
+
+Name: Jose Abreu
+Team: CWS
+Games Played: 114
+Runs: 64
+Hits: 132
+Doubles: 28
+Triples: 0
+Home Runs: 14
+RBIs: 56
+
+Name: Trea Turner
+Team: LAD
+Games Played: 114
+Runs: 71
+Hits: 142
+Doubles: 30
+Triples: 2
+Home Runs: 18
+RBIs: 83
+
+Name: Juan Soto
+Team: SD
+Games Played: 113
+Runs: 71
+Hits: 98
+Doubles: 20
+Triples: 2
+Home Runs: 22
+RBIs: 49
+
+Name: Vladimir Guerrero
+Team: TOR
+Games Played: 113
+Runs: 65
+Hits: 124
+Doubles: 24
+Triples: 0
+Home Runs: 24
+RBIs: 70
+
+Name: Aaron Judge
+Team: NYY
+Games Played: 112
+Runs: 96
+Hits: 126
+Doubles: 19
+Triples: 0
+Home Runs: 46
+RBIs: 100
+
+Name: Jose Ramirez
+Team: CLE
+Games Played: 112
+Runs: 63
+Hits: 121
+Doubles: 36
+Triples: 4
+Home Runs: 22
+RBIs: 94
+
+Name: Shohei Ohtani
+Team: LAA
+Games Played: 112
+Runs: 64
+Hits: 106
+Doubles: 17
+Triples: 3
+Home Runs: 26
+RBIs: 68
+
+Name: C.J. Cron
+Team: COL
+Games Played: 112
+Runs: 64
+Hits: 120
+Doubles: 26
+Triples: 3
+Home Runs: 23
+RBIs: 80
+
+Name: Paul Goldschmidt
+Team: STL
+Games Played: 108
+Runs: 80
+Hits: 133
+Doubles: 31
+Triples: 0
+Home Runs: 28
+RBIs: 89
+
+Name: Manny Machado
+Team: SD
+Games Played: 107
+Runs: 75
+Hits: 124
+Doubles: 28
+Triples: 1
+Home Runs: 21
+RBIs: 70
+
+Name: Nola Arenado
+Team: STL
+Games Played: 106
+Runs: 58
+Hits: 119
+Doubles: 28
+Triples: 1
+Home Runs: 25
+RBIs: 73
+
+Name: Andres Gimenez
+Team: CLE
+Games Played: 104
+Runs: 47
+Hits: 106
+Doubles: 19
+Triples: 2
+Home Runs: 14
+RBIs: 56
+
+Name: Brandon Drury
+Team: SD
+Games Played: 104
+Runs: 69
+Hits: 105
+Doubles: 24
+Triples: 2
+Home Runs: 23
+RBIs: 72
+
+Name: Anthony Rizzo
+Team: NYY
+Games Played: 103
+Runs: 64
+Hits: 81
+Doubles: 18
+Triples: 1
+Home Runs: 27
+RBIs: 67
+
+Name: Luis Arraez
+Team: MIN
+Games Played: 102
+Runs: 62
+Hits: 128
+Doubles: 21
+Triples: 1
+Home Runs: 6
+RBIs: 37
+
+Name: Jose Altuve
+Team: HOU
+Games Played: 100
+Runs: 64
+Hits: 105
+Doubles: 26
+Triples: 0
+Home Runs: 19
+RBIs: 41
+
+Name: Yordan Alvarez
+Team: HOU
+Games Played: 99
+Runs: 74
+Hits: 102
+Doubles: 15
+Triples: 2
+Home Runs: 31
+RBIs: 75
+
+Name: Rafael Devers
+Team: BOS
+Games Played: 99
+Runs: 65
+Hits: 121
+Doubles: 31
+Triples: 1
+Home Runs: 25
+RBIs: 62
+
+Name: Will Smith
+Team: LAD
+Games Played: 98
+Runs: 50
+Hits: 98
+Doubles: 20
+Triples: 1
+Home Runs: 17
+RBIs: 65
+
+Name: Mookie Betts
+Team: LAD
+Games Played: 97
+Runs: 85
+Hits: 110
+Doubles: 24
+Triples: 1
+Home Runs: 26
+RBIs: 60
+
+Name: Byron Buxton
+Team: MIN
+Games Played: 87
+Runs: 59
+Hits: 73
+Doubles: 13
+Triples: 3
+Home Runs: 28
+RBIs: 51
+
+
+Sorted by Runs:
+Name: Aaron Judge
+Team: NYY
+Games Played: 112
+Runs: 96
+Hits: 126
+Doubles: 19
+Triples: 0
+Home Runs: 46
+RBIs: 100
+
+Name: Mookie Betts
+Team: LAD
+Games Played: 97
+Runs: 85
+Hits: 110
+Doubles: 24
+Triples: 1
+Home Runs: 26
+RBIs: 60
+
+Name: Paul Goldschmidt
+Team: STL
+Games Played: 108
+Runs: 80
+Hits: 133
+Doubles: 31
+Triples: 0
+Home Runs: 28
+RBIs: 89
+
+Name: Freddie Freeman
+Team: LAD
+Games Played: 114
+Runs: 80
+Hits: 142
+Doubles: 38
+Triples: 2
+Home Runs: 16
+RBIs: 73
+
+Name: Manny Machado
+Team: SD
+Games Played: 107
+Runs: 75
+Hits: 124
+Doubles: 28
+Triples: 1
+Home Runs: 21
+RBIs: 70
+
+Name: Yordan Alvarez
+Team: HOU
+Games Played: 99
+Runs: 74
+Hits: 102
+Doubles: 15
+Triples: 2
+Home Runs: 31
+RBIs: 75
+
+Name: Juan Soto
+Team: SD
+Games Played: 113
+Runs: 71
+Hits: 98
+Doubles: 20
+Triples: 2
+Home Runs: 22
+RBIs: 49
+
+Name: Trea Turner
+Team: LAD
+Games Played: 114
+Runs: 71
+Hits: 142
+Doubles: 30
+Triples: 2
+Home Runs: 18
+RBIs: 83
+
+Name: Brandon Drury
+Team: SD
+Games Played: 104
+Runs: 69
+Hits: 105
+Doubles: 24
+Triples: 2
+Home Runs: 23
+RBIs: 72
+
+Name: Austin Riley
+Team: ATL
+Games Played: 115
+Runs: 68
+Hits: 132
+Doubles: 34
+Triples: 2
+Home Runs: 30
+RBIs: 74
+
+Name: Pete Alonso
+Team: NYM
+Games Played: 115
+Runs: 66
+Hits: 119
+Doubles: 22
+Triples: 0
+Home Runs: 29
+RBIs: 97
+
+Name: Rafael Devers
+Team: BOS
+Games Played: 99
+Runs: 65
+Hits: 121
+Doubles: 31
+Triples: 1
+Home Runs: 25
+RBIs: 62
+
+Name: Vladimir Guerrero
+Team: TOR
+Games Played: 113
+Runs: 65
+Hits: 124
+Doubles: 24
+Triples: 0
+Home Runs: 24
+RBIs: 70
+
+Name: Jose Altuve
+Team: HOU
+Games Played: 100
+Runs: 64
+Hits: 105
+Doubles: 26
+Triples: 0
+Home Runs: 19
+RBIs: 41
+
+Name: Shohei Ohtani
+Team: LAA
+Games Played: 112
+Runs: 64
+Hits: 106
+Doubles: 17
+Triples: 3
+Home Runs: 26
+RBIs: 68
+
+Name: Jose Abreu
+Team: CWS
+Games Played: 114
+Runs: 64
+Hits: 132
+Doubles: 28
+Triples: 0
+Home Runs: 14
+RBIs: 56
+
+Name: C.J. Cron
+Team: COL
+Games Played: 112
+Runs: 64
+Hits: 120
+Doubles: 26
+Triples: 3
+Home Runs: 23
+RBIs: 80
+
+Name: Anthony Rizzo
+Team: NYY
+Games Played: 103
+Runs: 64
+Hits: 81
+Doubles: 18
+Triples: 1
+Home Runs: 27
+RBIs: 67
+
+Name: Jose Ramirez
+Team: CLE
+Games Played: 112
+Runs: 63
+Hits: 121
+Doubles: 36
+Triples: 4
+Home Runs: 22
+RBIs: 94
+
+Name: Luis Arraez
+Team: MIN
+Games Played: 102
+Runs: 62
+Hits: 128
+Doubles: 21
+Triples: 1
+Home Runs: 6
+RBIs: 37
+
+Name: Josh Bell
+Team: SD
+Games Played: 115
+Runs: 60
+Hits: 119
+Doubles: 25
+Triples: 3
+Home Runs: 14
+RBIs: 59
+
+Name: Byron Buxton
+Team: MIN
+Games Played: 87
+Runs: 59
+Hits: 73
+Doubles: 13
+Triples: 3
+Home Runs: 28
+RBIs: 51
+
+Name: Nola Arenado
+Team: STL
+Games Played: 106
+Runs: 58
+Hits: 119
+Doubles: 28
+Triples: 1
+Home Runs: 25
+RBIs: 73
+
+Name: Will Smith
+Team: LAD
+Games Played: 98
+Runs: 50
+Hits: 98
+Doubles: 20
+Triples: 1
+Home Runs: 17
+RBIs: 65
+
+Name: Andres Gimenez
+Team: CLE
+Games Played: 104
+Runs: 47
+Hits: 106
+Doubles: 19
+Triples: 2
+Home Runs: 14
+RBIs: 56
+
+
+Sorted by Hits:
+Name: Freddie Freeman
+Team: LAD
+Games Played: 114
+Runs: 80
+Hits: 142
+Doubles: 38
+Triples: 2
+Home Runs: 16
+RBIs: 73
+
+Name: Trea Turner
+Team: LAD
+Games Played: 114
+Runs: 71
+Hits: 142
+Doubles: 30
+Triples: 2
+Home Runs: 18
+RBIs: 83
+
+Name: Paul Goldschmidt
+Team: STL
+Games Played: 108
+Runs: 80
+Hits: 133
+Doubles: 31
+Triples: 0
+Home Runs: 28
+RBIs: 89
+
+Name: Austin Riley
+Team: ATL
+Games Played: 115
+Runs: 68
+Hits: 132
+Doubles: 34
+Triples: 2
+Home Runs: 30
+RBIs: 74
+
+Name: Jose Abreu
+Team: CWS
+Games Played: 114
+Runs: 64
+Hits: 132
+Doubles: 28
+Triples: 0
+Home Runs: 14
+RBIs: 56
+
+Name: Luis Arraez
+Team: MIN
+Games Played: 102
+Runs: 62
+Hits: 128
+Doubles: 21
+Triples: 1
+Home Runs: 6
+RBIs: 37
+
+Name: Aaron Judge
+Team: NYY
+Games Played: 112
+Runs: 96
+Hits: 126
+Doubles: 19
+Triples: 0
+Home Runs: 46
+RBIs: 100
+
+Name: Manny Machado
+Team: SD
+Games Played: 107
+Runs: 75
+Hits: 124
+Doubles: 28
+Triples: 1
+Home Runs: 21
+RBIs: 70
+
+Name: Vladimir Guerrero
+Team: TOR
+Games Played: 113
+Runs: 65
+Hits: 124
+Doubles: 24
+Triples: 0
+Home Runs: 24
+RBIs: 70
+
+Name: Rafael Devers
+Team: BOS
+Games Played: 99
+Runs: 65
+Hits: 121
+Doubles: 31
+Triples: 1
+Home Runs: 25
+RBIs: 62
+
+Name: Jose Ramirez
+Team: CLE
+Games Played: 112
+Runs: 63
+Hits: 121
+Doubles: 36
+Triples: 4
+Home Runs: 22
+RBIs: 94
+
+Name: C.J. Cron
+Team: COL
+Games Played: 112
+Runs: 64
+Hits: 120
+Doubles: 26
+Triples: 3
+Home Runs: 23
+RBIs: 80
+
+Name: Nola Arenado
+Team: STL
+Games Played: 106
+Runs: 58
+Hits: 119
+Doubles: 28
+Triples: 1
+Home Runs: 25
+RBIs: 73
+
+Name: Pete Alonso
+Team: NYM
+Games Played: 115
+Runs: 66
+Hits: 119
+Doubles: 22
+Triples: 0
+Home Runs: 29
+RBIs: 97
+
+Name: Josh Bell
+Team: SD
+Games Played: 115
+Runs: 60
+Hits: 119
+Doubles: 25
+Triples: 3
+Home Runs: 14
+RBIs: 59
+
+Name: Mookie Betts
+Team: LAD
+Games Played: 97
+Runs: 85
+Hits: 110
+Doubles: 24
+Triples: 1
+Home Runs: 26
+RBIs: 60
+
+Name: Andres Gimenez
+Team: CLE
+Games Played: 104
+Runs: 47
+Hits: 106
+Doubles: 19
+Triples: 2
+Home Runs: 14
+RBIs: 56
+
+Name: Shohei Ohtani
+Team: LAA
+Games Played: 112
+Runs: 64
+Hits: 106
+Doubles: 17
+Triples: 3
+Home Runs: 26
+RBIs: 68
+
+Name: Jose Altuve
+Team: HOU
+Games Played: 100
+Runs: 64
+Hits: 105
+Doubles: 26
+Triples: 0
+Home Runs: 19
+RBIs: 41
+
+Name: Brandon Drury
+Team: SD
+Games Played: 104
+Runs: 69
+Hits: 105
+Doubles: 24
+Triples: 2
+Home Runs: 23
+RBIs: 72
+
+Name: Yordan Alvarez
+Team: HOU
+Games Played: 99
+Runs: 74
+Hits: 102
+Doubles: 15
+Triples: 2
+Home Runs: 31
+RBIs: 75
+
+Name: Juan Soto
+Team: SD
+Games Played: 113
+Runs: 71
+Hits: 98
+Doubles: 20
+Triples: 2
+Home Runs: 22
+RBIs: 49
+
+Name: Will Smith
+Team: LAD
+Games Played: 98
+Runs: 50
+Hits: 98
+Doubles: 20
+Triples: 1
+Home Runs: 17
+RBIs: 65
+
+Name: Anthony Rizzo
+Team: NYY
+Games Played: 103
+Runs: 64
+Hits: 81
+Doubles: 18
+Triples: 1
+Home Runs: 27
+RBIs: 67
+
+Name: Byron Buxton
+Team: MIN
+Games Played: 87
+Runs: 59
+Hits: 73
+Doubles: 13
+Triples: 3
+Home Runs: 28
+RBIs: 51
+
+
+Sorted by Home Runs:
+Name: Aaron Judge
+Team: NYY
+Games Played: 112
+Runs: 96
+Hits: 126
+Doubles: 19
+Triples: 0
+Home Runs: 46
+RBIs: 100
+
+Name: Yordan Alvarez
+Team: HOU
+Games Played: 99
+Runs: 74
+Hits: 102
+Doubles: 15
+Triples: 2
+Home Runs: 31
+RBIs: 75
+
+Name: Austin Riley
+Team: ATL
+Games Played: 115
+Runs: 68
+Hits: 132
+Doubles: 34
+Triples: 2
+Home Runs: 30
+RBIs: 74
+
+Name: Pete Alonso
+Team: NYM
+Games Played: 115
+Runs: 66
+Hits: 119
+Doubles: 22
+Triples: 0
+Home Runs: 29
+RBIs: 97
+
+Name: Paul Goldschmidt
+Team: STL
+Games Played: 108
+Runs: 80
+Hits: 133
+Doubles: 31
+Triples: 0
+Home Runs: 28
+RBIs: 89
+
+Name: Byron Buxton
+Team: MIN
+Games Played: 87
+Runs: 59
+Hits: 73
+Doubles: 13
+Triples: 3
+Home Runs: 28
+RBIs: 51
+
+Name: Anthony Rizzo
+Team: NYY
+Games Played: 103
+Runs: 64
+Hits: 81
+Doubles: 18
+Triples: 1
+Home Runs: 27
+RBIs: 67
+
+Name: Mookie Betts
+Team: LAD
+Games Played: 97
+Runs: 85
+Hits: 110
+Doubles: 24
+Triples: 1
+Home Runs: 26
+RBIs: 60
+
+Name: Shohei Ohtani
+Team: LAA
+Games Played: 112
+Runs: 64
+Hits: 106
+Doubles: 17
+Triples: 3
+Home Runs: 26
+RBIs: 68
+
+Name: Rafael Devers
+Team: BOS
+Games Played: 99
+Runs: 65
+Hits: 121
+Doubles: 31
+Triples: 1
+Home Runs: 25
+RBIs: 62
+
+Name: Nola Arenado
+Team: STL
+Games Played: 106
+Runs: 58
+Hits: 119
+Doubles: 28
+Triples: 1
+Home Runs: 25
+RBIs: 73
+
+Name: Vladimir Guerrero
+Team: TOR
+Games Played: 113
+Runs: 65
+Hits: 124
+Doubles: 24
+Triples: 0
+Home Runs: 24
+RBIs: 70
+
+Name: Brandon Drury
+Team: SD
+Games Played: 104
+Runs: 69
+Hits: 105
+Doubles: 24
+Triples: 2
+Home Runs: 23
+RBIs: 72
+
+Name: C.J. Cron
+Team: COL
+Games Played: 112
+Runs: 64
+Hits: 120
+Doubles: 26
+Triples: 3
+Home Runs: 23
+RBIs: 80
+
+Name: Juan Soto
+Team: SD
+Games Played: 113
+Runs: 71
+Hits: 98
+Doubles: 20
+Triples: 2
+Home Runs: 22
+RBIs: 49
+
+Name: Jose Ramirez
+Team: CLE
+Games Played: 112
+Runs: 63
+Hits: 121
+Doubles: 36
+Triples: 4
+Home Runs: 22
+RBIs: 94
+
+Name: Manny Machado
+Team: SD
+Games Played: 107
+Runs: 75
+Hits: 124
+Doubles: 28
+Triples: 1
+Home Runs: 21
+RBIs: 70
+
+Name: Jose Altuve
+Team: HOU
+Games Played: 100
+Runs: 64
+Hits: 105
+Doubles: 26
+Triples: 0
+Home Runs: 19
+RBIs: 41
+
+Name: Trea Turner
+Team: LAD
+Games Played: 114
+Runs: 71
+Hits: 142
+Doubles: 30
+Triples: 2
+Home Runs: 18
+RBIs: 83
+
+Name: Will Smith
+Team: LAD
+Games Played: 98
+Runs: 50
+Hits: 98
+Doubles: 20
+Triples: 1
+Home Runs: 17
+RBIs: 65
+
+Name: Freddie Freeman
+Team: LAD
+Games Played: 114
+Runs: 80
+Hits: 142
+Doubles: 38
+Triples: 2
+Home Runs: 16
+RBIs: 73
+
+Name: Andres Gimenez
+Team: CLE
+Games Played: 104
+Runs: 47
+Hits: 106
+Doubles: 19
+Triples: 2
+Home Runs: 14
+RBIs: 56
+
+Name: Jose Abreu
+Team: CWS
+Games Played: 114
+Runs: 64
+Hits: 132
+Doubles: 28
+Triples: 0
+Home Runs: 14
+RBIs: 56
+
+Name: Josh Bell
+Team: SD
+Games Played: 115
+Runs: 60
+Hits: 119
+Doubles: 25
+Triples: 3
+Home Runs: 14
+RBIs: 59
+
+Name: Luis Arraez
+Team: MIN
+Games Played: 102
+Runs: 62
+Hits: 128
+Doubles: 21
+Triples: 1
+Home Runs: 6
+RBIs: 37
+
+
+Sorted by RBIs:
+Name: Aaron Judge
+Team: NYY
+Games Played: 112
+Runs: 96
+Hits: 126
+Doubles: 19
+Triples: 0
+Home Runs: 46
+RBIs: 100
+
+Name: Pete Alonso
+Team: NYM
+Games Played: 115
+Runs: 66
+Hits: 119
+Doubles: 22
+Triples: 0
+Home Runs: 29
+RBIs: 97
+
+Name: Jose Ramirez
+Team: CLE
+Games Played: 112
+Runs: 63
+Hits: 121
+Doubles: 36
+Triples: 4
+Home Runs: 22
+RBIs: 94
+
+Name: Paul Goldschmidt
+Team: STL
+Games Played: 108
+Runs: 80
+Hits: 133
+Doubles: 31
+Triples: 0
+Home Runs: 28
+RBIs: 89
+
+Name: Trea Turner
+Team: LAD
+Games Played: 114
+Runs: 71
+Hits: 142
+Doubles: 30
+Triples: 2
+Home Runs: 18
+RBIs: 83
+
+Name: C.J. Cron
+Team: COL
+Games Played: 112
+Runs: 64
+Hits: 120
+Doubles: 26
+Triples: 3
+Home Runs: 23
+RBIs: 80
+
+Name: Yordan Alvarez
+Team: HOU
+Games Played: 99
+Runs: 74
+Hits: 102
+Doubles: 15
+Triples: 2
+Home Runs: 31
+RBIs: 75
+
+Name: Austin Riley
+Team: ATL
+Games Played: 115
+Runs: 68
+Hits: 132
+Doubles: 34
+Triples: 2
+Home Runs: 30
+RBIs: 74
+
+Name: Nola Arenado
+Team: STL
+Games Played: 106
+Runs: 58
+Hits: 119
+Doubles: 28
+Triples: 1
+Home Runs: 25
+RBIs: 73
+
+Name: Freddie Freeman
+Team: LAD
+Games Played: 114
+Runs: 80
+Hits: 142
+Doubles: 38
+Triples: 2
+Home Runs: 16
+RBIs: 73
+
+Name: Brandon Drury
+Team: SD
+Games Played: 104
+Runs: 69
+Hits: 105
+Doubles: 24
+Triples: 2
+Home Runs: 23
+RBIs: 72
+
+Name: Manny Machado
+Team: SD
+Games Played: 107
+Runs: 75
+Hits: 124
+Doubles: 28
+Triples: 1
+Home Runs: 21
+RBIs: 70
+
+Name: Vladimir Guerrero
+Team: TOR
+Games Played: 113
+Runs: 65
+Hits: 124
+Doubles: 24
+Triples: 0
+Home Runs: 24
+RBIs: 70
+
+Name: Shohei Ohtani
+Team: LAA
+Games Played: 112
+Runs: 64
+Hits: 106
+Doubles: 17
+Triples: 3
+Home Runs: 26
+RBIs: 68
+
+Name: Anthony Rizzo
+Team: NYY
+Games Played: 103
+Runs: 64
+Hits: 81
+Doubles: 18
+Triples: 1
+Home Runs: 27
+RBIs: 67
+
+Name: Will Smith
+Team: LAD
+Games Played: 98
+Runs: 50
+Hits: 98
+Doubles: 20
+Triples: 1
+Home Runs: 17
+RBIs: 65
+
+Name: Rafael Devers
+Team: BOS
+Games Played: 99
+Runs: 65
+Hits: 121
+Doubles: 31
+Triples: 1
+Home Runs: 25
+RBIs: 62
+
+Name: Mookie Betts
+Team: LAD
+Games Played: 97
+Runs: 85
+Hits: 110
+Doubles: 24
+Triples: 1
+Home Runs: 26
+RBIs: 60
+
+Name: Josh Bell
+Team: SD
+Games Played: 115
+Runs: 60
+Hits: 119
+Doubles: 25
+Triples: 3
+Home Runs: 14
+RBIs: 59
+
+Name: Andres Gimenez
+Team: CLE
+Games Played: 104
+Runs: 47
+Hits: 106
+Doubles: 19
+Triples: 2
+Home Runs: 14
+RBIs: 56
+
+Name: Jose Abreu
+Team: CWS
+Games Played: 114
+Runs: 64
+Hits: 132
+Doubles: 28
+Triples: 0
+Home Runs: 14
+RBIs: 56
+
+Name: Byron Buxton
+Team: MIN
+Games Played: 87
+Runs: 59
+Hits: 73
+Doubles: 13
+Triples: 3
+Home Runs: 28
+RBIs: 51
+
+Name: Juan Soto
+Team: SD
+Games Played: 113
+Runs: 71
+Hits: 98
+Doubles: 20
+Triples: 2
+Home Runs: 22
+RBIs: 49
+
+Name: Jose Altuve
+Team: HOU
+Games Played: 100
+Runs: 64
+Hits: 105
+Doubles: 26
+Triples: 0
+Home Runs: 19
+RBIs: 41
+
+Name: Luis Arraez
+Team: MIN
+Games Played: 102
+Runs: 62
+Hits: 128
+Doubles: 21
+Triples: 1
+Home Runs: 6
+RBIs: 37
+
