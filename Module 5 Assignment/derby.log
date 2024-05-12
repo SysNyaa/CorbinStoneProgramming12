@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 11 22:25:09 PDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018f-6b43-154e-00000de569b8 
+on database directory C:\Users\proto\IdeaProjects\Module 5 Assignment\database\users with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@439f5b3d 
+Loaded from file:/C:/Users/proto/IdeaProjects/Module%205%20Assignment/libraries/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.1+9-29
+user.dir=C:\Users\proto\IdeaProjects\Module 5 Assignment
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

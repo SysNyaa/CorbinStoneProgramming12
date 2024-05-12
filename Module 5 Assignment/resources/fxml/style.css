@@ -1,0 +1,52 @@
+#body {
+    -fx-border-style: solid;
+    -fx-border-width: 3px;
+    -fx-border-color: #cbc9b3;
+    -fx-background-color: #DAD8C9
+}
+
+.text-field {
+    -fx-border-style: dotted;
+    -fx-border-width: 2.5px;
+    -fx-border-color: #a29d76;
+    -fx-background-color: #cbc9b3;
+    -fx-prompt-text-fill: rgba(0, 0, 0, 0.5);
+}
+
+.text-field:focused .text-input {
+    -fx-prompt-text-fill: transparent; /* Make the prompt text transparent when focused */
+}
+
+.button {
+    -fx-border-style: solid;
+    -fx-border-width: 2.5px;
+    -fx-border-color: #a29d76;
+    -fx-background-color: #cbc9b3;
+}
+
+.button:hover {
+    -fx-border-style: solid;
+    -fx-border-width: 2.5px;
+    -fx-border-color: #a29d76;
+    -fx-background-color: #b7b395;
+}
+
+.button:pressed {
+    -fx-border-style: solid;
+    -fx-border-width: 1.5px;
+    -fx-border-color: #b7b395;
+    -fx-background-color: #a29d76;
+}
+
+.table-view {
+    -fx-border-style: solid;
+    -fx-border-width: 1.5px;
+    -fx-border-color: #a29d76;
+    -fx-background-color: #cbc9b3;
+}
+
+.table-view .column-header {
+    -fx-border-style: solid;
+    -fx-border-width: 1.5px;
+    -fx-border-color: #a29d76;
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane id="body" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="720.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.module5.gui.AdminWindowCtrlr">
+   <top>
+      <AnchorPane prefHeight="144.0" prefWidth="714.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="welcomeLabel" layoutX="4.0" layoutY="38.0" prefHeight="25.0" prefWidth="300.0" text="1111111111111111111111111">
+               <font>
+                  <Font name="Meiryo UI" size="18.0" />
+               </font>
+            </Label>
+            <Label text="Welcome">
+               <font>
+                  <Font name="Meiryo UI" size="36.0" />
+               </font>
+            </Label>
+            <Button fx:id="logoutBtn" layoutX="5.0" layoutY="63.0" mnemonicParsing="false" onAction="#logout" text="Logout" />
+         </children>
+      </AnchorPane>
+   </top>
+   <center>
+      <AnchorPane prefHeight="327.0" prefWidth="442.0" BorderPane.alignment="CENTER">
+         <children>
+            <TableView fx:id="tableView" layoutX="93.0" layoutY="-56.0" prefHeight="310.0" prefWidth="530.0">
+              <columns>
+                <TableColumn id="idCol" fx:id="idCol" prefWidth="58.0" text="ID" />
+                <TableColumn id="userCol" fx:id="userCol" prefWidth="208.0" text="User" />
+                  <TableColumn id="passCol" fx:id="passCol" prefWidth="258.0" text="Password" />
+              </columns>
+            </TableView>
+            <Button layoutX="321.0" layoutY="283.0" mnemonicParsing="false" onAction="#loadUserManagerWindow" text="Edit Users" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>
